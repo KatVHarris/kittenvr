@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kittenvr.Plugins", "kittenvr.Plugins.csproj", "{21D4785E-6069-AC52-B83C-28EBE8EE1A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kittenvr", "kittenvr.csproj", "{D4620F34-F615-4A87-C8FB-42296591F1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kittenvr.Editor", "kittenvr.Editor.csproj", "{FB1AD7C1-DE39-36B9-E2A3-75F47B63551C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D4785E-6069-AC52-B83C-28EBE8EE1A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D4785E-6069-AC52-B83C-28EBE8EE1A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D4785E-6069-AC52-B83C-28EBE8EE1A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D4785E-6069-AC52-B83C-28EBE8EE1A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4620F34-F615-4A87-C8FB-42296591F1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4620F34-F615-4A87-C8FB-42296591F1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4620F34-F615-4A87-C8FB-42296591F1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4620F34-F615-4A87-C8FB-42296591F1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1AD7C1-DE39-36B9-E2A3-75F47B63551C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1AD7C1-DE39-36B9-E2A3-75F47B63551C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1AD7C1-DE39-36B9-E2A3-75F47B63551C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1AD7C1-DE39-36B9-E2A3-75F47B63551C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
